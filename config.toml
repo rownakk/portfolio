@@ -13,7 +13,7 @@ enableEmoji = true
 
 [params]
 author = "Rownak Kundu"
-description = "Rownak's personal website"
+description = "Personal Webpage"
 keywords = "blog,research,personal"
 info = "Junior Research Fellow, IIEST Shibpur"
 avatarURL = "images/avatar.jpg"
@@ -102,19 +102,19 @@ author = "authors"
 name = "Twitter"
 icon = "fa fa-twitter"
 weight = 1
-url = "https://twitter.com/johndoe/"
+url = "https://twitter.com/rownakkundu/"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-linkedin"
 weight = 2
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/"
 
 [[params.social]]
 name = "GoogleScholar"
 icon = "fa fa-google"
 weight = 3
-url = "https://scholar.google.com/@johndoe"
+url = "https://scholar.google.com/"
 
 
 [languages.en]
